@@ -124,7 +124,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623101簡報
+<t tx="leo.20180827201621.10">## 2018 40623101簡報
 
 ### 虎科大機械設計工程系
 
@@ -132,7 +132,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 40623101網誌](./../blog/index.html)
+[40623101網誌](./../blog/index.html)
 
 
 </t>
