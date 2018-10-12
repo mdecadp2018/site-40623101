@@ -71,6 +71,21 @@
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
+<v t="leo.20181012095452.1" a="E"><vh>CADP_W1</vh>
+<v t="leo.20181012095452.2"><vh>@edit 20180914.md</vh></v>
+</v>
+<v t="leo.20181012095454.1" a="E"><vh>CADP_W2</vh>
+<v t="leo.20181012095454.2"><vh>@edit 20180921.md</vh></v>
+</v>
+<v t="leo.20181012095809.1" a="E"><vh>CADP_W3</vh>
+<v t="leo.20181012095809.2"><vh>@edit 20180928.md</vh></v>
+</v>
+<v t="leo.20181012095456.1" a="E"><vh>CADP_W4</vh>
+<v t="leo.20181012095456.2"><vh>@edit 20181005.md</vh></v>
+</v>
+<v t="leo.20181012095648.1" a="E"><vh>CADP_W5</vh>
+<v t="leo.20181012095648.2"><vh>@edit 20181012.md</vh></v>
+</v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
@@ -103,6 +118,11 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181012095452.1"></t>
+<t tx="leo.20181012095454.1"></t>
+<t tx="leo.20181012095456.1"></t>
+<t tx="leo.20181012095648.1"></t>
+<t tx="leo.20181012095809.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
