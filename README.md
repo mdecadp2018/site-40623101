@@ -1,10 +1,10 @@
-# 2018fall
-電腦輔助設計實習課程分組倉儲
+# 電腦輔助設計實習課程
+##40623101 網站
 
 https://mdecadp2018.github.io/site-40623101/
 
-分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
+倉儲: <a href="https://mdecadp2018.github.io/site-40623101">https://mdecadp2018.github.io/site-40623101</a>
 
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
+投影片: <a href="https://mdecadp2018.github.io/site-40623101/reveal">https://mdecadp2018.github.io/site-40623101/reveal</a>
 
-cpgx 網站: https://cpgx.kmol.info
+網誌: <a href="https://mdecadp2018.github.io/site-40623101/blog">https://mdecadp2018.github.io/site-40623101/blog</a>
