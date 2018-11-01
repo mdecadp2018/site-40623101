@@ -42,6 +42,7 @@
 
     <link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week2-Blog.html" rel="canonical" />
 
+        <meta name="description" content="網站的維護">
 
         <meta name="author" content="40623101">
 
@@ -53,7 +54,7 @@
 <!-- Open Graph -->
 <meta property="og:site_name" content="機械設計工程系 40623101 blog"/>
 <meta property="og:title" content="Week 2"/>
-<meta property="og:description" content=""/>
+<meta property="og:description" content="網站的維護"/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:url" content="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week2-Blog.html"/>
 <meta property="og:type" content="article"/>
@@ -81,7 +82,7 @@
   },
   "image": "https://mdecadp2018.github.io/site-40623101/blog/theme/images/post-bg.jpg",
   "url": "https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week2-Blog.html",
-  "description": ""
+  "description": "網站的維護"
 }
 </script>
 <script type="text/javascript" src="./../data/syntaxhighlighter/shCore.js"></script>
@@ -222,7 +223,15 @@ init_mathjax();
         <article class="post">
         <div class="inner">
             <section class="post-content">
-                <!-- PELICAN_END_SUMMARY -->
+                <p>網站的維護</p>
+
+
+<h2>CMSimfly 網站</h2>
+<p>啟動近端動態系統 <a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html">python wsgi.py</a> ，開啟對應網址 <a href="https://localhost:8443">https://localhost:8443</a> ，login帳號並編輯網站， 編輯完後按下 <a href="https://mdecadp2018.github.io/site-40623101/content/CMSimfly%20%E7%B6%B2%E7%AB%99.html">generate_pages</a> 鈕，將動態網頁資料轉換成靜態網頁資料，最後進行新增、提交及推送到遠端的倉儲。</p>
+<h2>reveal 投影片</h2>
+<p>以 Leo Editor 開啟位於 config 下的 reveal.leo去進行編輯，編輯完後啟動近端靜態系統 <a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html">http-server.py</a> ，並開啟對應網址 <a href="https://localhost:8444/reveal">https://localhost:8444/reveal</a> ，編輯的部分就直接會在此網站上有所改變，最後進行新增、提交及推送到遠端的倉儲。</p>
+<h2>pelican 網誌</h2>
+<p>以 Leo Editor 開啟位於 config下的 pelican.leo 去進行編輯，然後因為這部分牽涉到遠端連結，所以先到@edit publishconf.py修改SITEURL = 'https://mdecadp2018.github.io/site-40623101/blog'，再修改DISQUS_SITENAME = "mdecadp2018"，編輯完後先進行近端推送 (local-blog) ，並啟動近端靜態系統 <a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html">http-server.py</a> ，然後開啟所對應的網址 <a href="https://localhost:8444/blog">https://localhost:8444/blog</a> ，編輯的部分就直接會在此網站上有所改變，之後進行遠端推送 (github-blog) ，最後進行新增、提交及推送到遠端的倉儲。</p>
             </section>
 
             <section class="post-info">
@@ -271,7 +280,7 @@ init_mathjax();
                         <section class="post-nav-teaser">
                             <i class="ic ic-arrow-right"></i>
                                 <h2 class="post-nav-title">Week 1</h2>
-                            <p class="post-nav-excerpt">網站的維護</p>
+                            <p class="post-nav-excerpt">領取期中作業</p>
                         </section>
                     </a>
                     <div class="clear"></div>

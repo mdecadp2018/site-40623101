@@ -1,5 +1,5 @@
 # 電腦輔助設計實習課程
-40623101 
+四設計二甲  40623101  王馨慧 
 
 網站:<a href="https://github.com/mdecadp2018/site-40623101">https://github.com/mdecadp2018/site-40623101</a>
 
