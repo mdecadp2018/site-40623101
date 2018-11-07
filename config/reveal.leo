@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181026102301.1"><vh>W1-3</vh>
+<v t="leo.20181026102301.1" a="E"><vh>W1-3</vh>
 <v t="leo.20181107165704.1" a="E"><vh>W1-3_1</vh>
 <v t="leo.20181107165704.2"><vh>W1-3_1內容</vh></v>
 </v>
@@ -47,7 +47,7 @@
 <v t="leo.20181107170340.2"><vh>W1-3_6內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107165749.1"><vh>W4-6</vh>
+<v t="leo.20181107165749.1" a="E"><vh>W4-6</vh>
 <v t="leo.20181107165749.2" a="E"><vh>W4-6_1</vh>
 <v t="leo.20181107165749.3"><vh>W4-6_1內容</vh></v>
 </v>
@@ -523,7 +523,7 @@ Onshape 課程說明
 
 1. 以 Leo Editor 開啟位於 config下的 pelican.leo 去進行編輯。
 
-2. 因為下面網址牽涉到遠端連結，所以要先到@edit publishconf.py修改SITEURL = '&lt;https://mdecadp2018.github.io/site-40623101/blog&gt;'
+2. 因為下面網址牽涉到遠端連結，所以要先到@edit publishconf.py修改SITEURL = '&lt; https://mdecadp2018.github.io/site-40623101/blog &gt;'
 
 3. 因為牽涉到遠端連結的討論區，所以修改成DISQUS_SITENAME = "mdecadp2018"。
 
