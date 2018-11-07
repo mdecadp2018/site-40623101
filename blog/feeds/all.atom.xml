@@ -1,19 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623101 blog</title><link href="https://mdecadp2018.github.io/site-40623101/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623101/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623101/blog/</id><updated>2018-10-26T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week7-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623101/blog/2018-Fall-Week7-Blog.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week6-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623101/blog/2018-Fall-Week6-Blog.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week5-Blog.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623101/blog/2018-Fall-Week5-Blog.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week4-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623101/blog/2018-Fall-Week4-Blog.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week3-Blog.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623101/blog/2018-Fall-Week3-Blog.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week2-Blog.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623101/blog/2018-Fall-Week2-Blog.html</id><summary type="html">&lt;p&gt;網站的維護&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;網站的維護&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623101 blog</title><link href="https://mdecadp2018.github.io/site-40623101/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623101/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623101/blog/</id><updated>2018-10-26T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week7-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623101/blog/2018-Fall-Week7-Blog.html</id><summary type="html">&lt;p&gt;Github無法登入&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Github無法登入&lt;/p&gt;
+
+
+&lt;p&gt;參考網址:&lt;a href="https://github.com/mdecourse/cadp2018/issues/11"&gt;https://github.com/mdecourse/cadp2018/issues/11&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week6-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623101/blog/2018-Fall-Week6-Blog.html</id><summary type="html">&lt;p&gt;利用記事本，安排人事時地物等關鍵內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用記事本，安排人事時地物等關鍵內容&lt;/p&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;人: 第九週前為個人學習 Onshape。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;事: 除了會利用 Onshape 繪出各 Lesson 中所要求的零組件外，也希望能用手機或電腦的英英字典網羅所需了解的單字廣泛字義。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統，來提升電腦輔助設計與繪圖效益, 等到六人協同執行期末專案時，不同組員可能在不同時間甚至不同時區參與協同，因此對於分散式版次管理系統的依賴將會越高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;地: 由於採用可攜與雲端系統，可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;物: 主要採用可攜與雲端系統，並且在 github classroom 中上課，每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week5-Blog.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623101/blog/2018-Fall-Week5-Blog.html</id><summary type="html">&lt;p&gt;查看 git 版本&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;查看 git 版本&lt;/p&gt;
+
+
+&lt;p&gt;指令為git version&lt;/p&gt;
+&lt;p&gt;示範如下網址:&lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week5.html"&gt; week5&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week4-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623101/blog/2018-Fall-Week4-Blog.html</id><summary type="html">&lt;p&gt;自我學習Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;自我學習Onshape&lt;/p&gt;
+
+
+&lt;p&gt;Onshape 課程說明
+參考網址: &lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;http://mde.tw/cadp2018/content/index.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week3-Blog.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623101/blog/2018-Fall-Week3-Blog.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+
+
+&lt;p&gt;一、&lt;a href="https://www.onshape.com/"&gt; onshape&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;按下Sketch新建草稿。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;畫好草圖之後,Extrude擠出。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;二、Git 的功能介紹
+&lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week3.html"&gt;https://mdecadp2018.github.io/site-40623101/content/Week3.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week2-Blog.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623101/blog/2018-Fall-Week2-Blog.html</id><summary type="html">&lt;p&gt;管理網站&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;管理網站&lt;/p&gt;
 
 
 &lt;h2&gt;CMSimfly 網站&lt;/h2&gt;
-&lt;p&gt;啟動近端動態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt;python wsgi.py&lt;/a&gt; ，開啟對應網址 &lt;a href="https://localhost:8443"&gt;https://localhost:8443&lt;/a&gt; ，login帳號並編輯網站， 編輯完後按下 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/CMSimfly%20%E7%B6%B2%E7%AB%99.html"&gt;generate_pages&lt;/a&gt; 鈕，將動態網頁資料轉換成靜態網頁資料，最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;啟動近端動態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt;python wsgi.py&lt;/a&gt; ，並開啟對應網址 &lt;a href="https://localhost:8443"&gt;https://localhost:8443&lt;/a&gt; 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;login帳號然後編輯網站。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;編輯完後按下 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/CMSimfly%20%E7%B6%B2%E7%AB%99.html"&gt;generate_pages&lt;/a&gt; 鈕，將動態網頁資料轉換成，靜態網頁資料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;reveal 投影片&lt;/h2&gt;
-&lt;p&gt;以 Leo Editor 開啟位於 config 下的 reveal.leo去進行編輯，編輯完後啟動近端靜態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt;http-server.py&lt;/a&gt; ，並開啟對應網址 &lt;a href="https://localhost:8444/reveal"&gt;https://localhost:8444/reveal&lt;/a&gt; ，編輯的部分就直接會在此網站上有所改變，最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;以 Leo Editor 開啟位於 config 下的 reveal.leo去進行編輯。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;編輯完後啟動近端靜態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt; http-server.py&lt;/a&gt;，並開啟對應網址 &lt;a href="https://localhost:8444/reveal"&gt;https://localhost:8444/reveal&lt;/a&gt; 編輯的部分就直接會在此網站上有所改變。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;pelican 網誌&lt;/h2&gt;
-&lt;p&gt;以 Leo Editor 開啟位於 config下的 pelican.leo 去進行編輯，然後因為這部分牽涉到遠端連結，所以先到@edit publishconf.py修改SITEURL = 'https://mdecadp2018.github.io/site-40623101/blog'，再修改DISQUS_SITENAME = "mdecadp2018"，編輯完後先進行近端推送 (local-blog) ，並啟動近端靜態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt;http-server.py&lt;/a&gt; ，然後開啟所對應的網址 &lt;a href="https://localhost:8444/blog"&gt;https://localhost:8444/blog&lt;/a&gt; ，編輯的部分就直接會在此網站上有所改變，之後進行遠端推送 (github-blog) ，最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week1-Blog.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623101/blog/2018-Fall-Week1-Blog.html</id><summary type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;以 Leo Editor 開啟位於 config下的 pelican.leo 去進行編輯。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因為下面網址牽涉到遠端連結，所以要先到@edit publishconf.py修改SITEURL = '&lt;a href="https://mdecadp2018.github.io/site-40623101/blog"&gt;https://mdecadp2018.github.io/site-40623101/blog&lt;/a&gt;'&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因為牽涉到遠端連結的討論區，所以修改成DISQUS_SITENAME = "mdecadp2018"。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;編輯完後先進行近端推送 (local-blog) ，並啟動近端靜態系統  &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt; http-server.py&lt;/a&gt; ，然後開啟所對應的網址 &lt;a href="https://localhost:8444/blog"&gt;https://localhost:8444/blog&lt;/a&gt; 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;編輯的部分就直接會在近端靜態網址上有所改變。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;進行遠端推送 (github-blog) 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week1-Blog.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623101/blog/2018-Fall-Week1-Blog.html</id><summary type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
 
 
-&lt;p&gt;1.登入 Github 帳號後, 連結至 &lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;https://classroom.github.com/a/fGqXU9kO&lt;/a&gt; 領取個人的期中作業。&lt;/p&gt;
-&lt;p&gt;2.將此倉儲以 git clone 指令 clone 到近端，並利用 git checkout 切換分支到 gh-pages。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623101/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;下載&lt;a href="https://drive.google.com/file/d/1Pkkjg8RX3pkZkjWEBlQBggw11u5YSn5i/view"&gt;p37.7z&lt;/a&gt;，並解壓縮到自己的隨身碟裡。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登入 Github 帳號後, 連結至 &lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;https://classroom.github.com/a/fGqXU9kO&lt;/a&gt; 領取個人的期中作業。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;將此倉儲以 git clone 指令 clone 到近端，並利用 git checkout 切換分支到 gh-pages。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623101/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
