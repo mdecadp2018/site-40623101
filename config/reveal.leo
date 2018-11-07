@@ -24,19 +24,69 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181026102301.1"><vh>W1-3</vh>
-<v t="leo.20181026102301.2"><vh>W1-3內容</vh></v>
+<v t="leo.20181107165704.1" a="E"><vh>W1-3_1</vh>
+<v t="leo.20181107165704.2"><vh>W1-3_1內容</vh></v>
 </v>
-<v t="leo.20181026102302.1"><vh>W4-6</vh>
-<v t="leo.20181026102302.2"><vh>W4-6內容</vh></v>
+<v t="leo.20181107165926.1" a="E"><vh>W1-3_2</vh>
+<v t="leo.20181107165926.2"><vh>W1-3_2內容</vh></v>
 </v>
-<v t="leo.20181026102304.1"><vh>W7-9</vh>
-<v t="leo.20181026102304.2"><vh>W7-9內容</vh></v>
+<v t="leo.20181107170210.1" a="E"><vh>W1-3_3</vh>
+<v t="leo.20181107170210.2"><vh>W1-3_3內容</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20181107170213.1" a="E"><vh>W1-3_4</vh>
+<v t="leo.20181107170213.2"><vh>W1-3_4內容</vh></v>
+</v>
+<v t="leo.20181107170727.1" a="E"><vh>W1-3_5</vh>
+<v t="leo.20181107170727.2"><vh>W1-3_5內容</vh></v>
+</v>
+<v t="leo.20181107170340.1" a="E"><vh>W1-3_6</vh>
+<v t="leo.20181107170340.2"><vh>W1-3_6內容</vh></v>
+</v>
+</v>
+<v t="leo.20181107165749.1"><vh>W4-6</vh>
+<v t="leo.20181107165749.2" a="E"><vh>W4-6_1</vh>
+<v t="leo.20181107165749.3"><vh>W4-6_1內容</vh></v>
+</v>
+<v t="leo.20181107171047.1" a="E"><vh>W4-6_2</vh>
+<v t="leo.20181107171047.2"><vh>W4-6_2內容</vh></v>
+</v>
+<v t="leo.20181107171049.1" a="E"><vh>W4-6_3</vh>
+<v t="leo.20181107171049.2"><vh>W4-6_3內容</vh></v>
+</v>
+<v t="leo.20181107171050.1" a="E"><vh>W4-6_4</vh>
+<v t="leo.20181107171050.2"><vh>W4-6_4內容</vh></v>
+</v>
+<v t="leo.20181107171051.1" a="E"><vh>W4-6_5</vh>
+<v t="leo.20181107171051.2"><vh>W4-6_5內容</vh></v>
+</v>
+<v t="leo.20181107171855.1" a="E"><vh>W4-6_6</vh>
+<v t="leo.20181107171855.2"><vh>W4-6_6內容</vh></v>
+</v>
+<v t="leo.20181107171857.1" a="E"><vh>W4-6_7</vh>
+<v t="leo.20181107171857.2"><vh>W4-6_7內容</vh></v>
+</v>
+</v>
+<v t="leo.20181107165751.1"><vh>W7-9</vh>
+<v t="leo.20181107165751.2" a="E"><vh>W7-9</vh>
+<v t="leo.20181107165751.3"><vh>W7-9內容</vh></v>
+</v>
+</v>
+<v t="leo.20181107183912.1"><vh>筆記</vh>
+<v t="leo.20181107183912.2"><vh>筆記-1</vh>
+<v t="leo.20181107183912.3"><vh>筆記內容</vh></v>
+</v>
+<v t="leo.20181107184038.1"><vh>筆記-2</vh>
+<v t="leo.20181107184038.2"><vh>筆記內容</vh></v>
+</v>
+</v>
+<v t="leo.20181107184534.1" a="E"><vh>心得</vh>
+<v t="leo.20181107184534.2"><vh>心得內容</vh></v>
+</v>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -335,43 +385,348 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026102301.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181026102301.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181026102301.2"># W1-3
-
-
-</t>
-<t tx="leo.20181026102302.1">&lt;section data-markdown&gt;
+<t tx="leo.20181107165704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
+
 						
 </t>
-<t tx="leo.20181026102302.2"># W4-6
+<t tx="leo.20181107165704.2">## W1-3
 
+1. 下載&lt;a href="https://drive.google.com/file/d/1Pkkjg8RX3pkZkjWEBlQBggw11u5YSn5i/view"&gt;p37.7z&lt;/a&gt;，並解壓縮到自己的隨身碟裡。
 
+2. 登入 Github 帳號後, 連結至 &lt;https://classroom.github.com/a/fGqXU9kO&gt; 領取個人的期中作業。
 
+3. 將此倉儲以 git clone 指令 clone 到近端，並利用 git checkout 切換分支到 gh-pages。
 </t>
-<t tx="leo.20181026102304.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181107165749.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181026102304.2"># W7-9
+<t tx="leo.20181107165749.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107165749.3">## W4-6
+
+Onshape 課程說明
+參考網址: &lt;http://mde.tw/cadp2018/content/index.html&gt;
+
+</t>
+<t tx="leo.20181107165751.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107165751.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107165751.3">## W7-9
+
+* Github無法登入
+
+參考網址:&lt;https://github.com/mdecourse/cadp2018/issues/11&gt;
+
+</t>
+<t tx="leo.20181107165926.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107165926.2">## CMSimfly網站
+
+1. 啟動近端動態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt;python wsgi.py&lt;/a&gt; ，並開啟對應網址 &lt;https://localhost:8443&gt; 。
+
+2. login帳號然後編輯網站。
+
+3. 編輯完後按下 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/CMSimfly%20%E7%B6%B2%E7%AB%99.html"&gt;generate_pages&lt;/a&gt; 鈕，將動態網頁資料轉換成，靜態網頁資料。
+
+4. 進行新增、提交及推送到遠端的倉儲。
+
+</t>
+<t tx="leo.20181107170210.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107170210.2">## reveal 投影片
+
+1. 以 Leo Editor 開啟位於 config 下的 reveal.leo去進行編輯。
+
+2. 編輯完後啟動近端靜態系統 &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt; http-server.py&lt;/a&gt;，並開啟對應網址 &lt;https://localhost:8444/reveal&gt; 編輯的部分就直接會在此網站上有所改變。
+
+3. 最後進行新增、提交及推送到遠端的倉儲。
+
+</t>
+<t tx="leo.20181107170213.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107170213.2">## pelican 網誌-1
+
+1. 以 Leo Editor 開啟位於 config下的 pelican.leo 去進行編輯。
+
+2. 因為下面網址牽涉到遠端連結，所以要先到@edit publishconf.py修改SITEURL = '&lt;https://mdecadp2018.github.io/site-40623101/blog&gt;'
+
+3. 因為牽涉到遠端連結的討論區，所以修改成DISQUS_SITENAME = "mdecadp2018"。
+
+</t>
+<t tx="leo.20181107170340.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107170340.2">## Git 的功能介紹
+
+* git init (建立一個.git資料)
+* git log (查看版次)
+* git branch 分支名 (創建新分支)
+* git checkout 分支名 (轉換分支)
+* git log --oneline --graph --all (檢查各提交間的關聯)
+* git merge 分支名 (合併分支)
+
+</t>
+<t tx="leo.20181107170727.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107170727.2">## pelican 網誌-2
+
+4. 編輯完後先進行近端推送 (local-blog) ，並啟動近端靜態系統  &lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week1.html"&gt; http-server.py&lt;/a&gt; ，然後開啟所對應的網址 &lt;https://localhost:8444/blog&gt; 。
+
+5. 編輯的部分就直接會在近端靜態網址上有所改變。
+
+6. 進行遠端推送 (github-blog) 。
+
+7. 最後進行新增、提交及推送到遠端的倉儲。
+
+</t>
+<t tx="leo.20181107171047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171047.2">## 查看 git 版本( git version )
+
+&lt;img src ="./../images/git_version-1.png"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20181107171049.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171049.2">### 利用記事本-1
+
+人: 第九週前為個人學習 Onshape。
+
+</t>
+<t tx="leo.20181107171050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171050.2">### 利用記事本-2
+
+事: 除了會利用 Onshape 繪出各 Lesson 中所要求的零組件外，也希望能用手機或電腦的英英字典網羅所需了解的單字廣泛字義。
+
+</t>
+<t tx="leo.20181107171051.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171051.2">### 利用記事本-3
+
+時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統，來提升電腦輔助設計與繪圖效益, 等到六人協同執行期末專案時，不同組員可能在不同時間甚至不同時區參與協同，因此對於分散式版次管理系統的依賴將會越高。
+
+</t>
+<t tx="leo.20181107171855.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171855.2">### 利用記事本-4
+
+地: 由於採用可攜與雲端系統，可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題。
+
+</t>
+<t tx="leo.20181107171857.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107171857.2">### 利用記事本-5
+
+物: 主要採用可攜與雲端系統，並且在 github classroom 中上課，每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習。
+
+</t>
+<t tx="leo.20181107183912.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183912.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107183912.3">### 筆記內容-1
+
+&lt;img src ="./../images/筆記1.jpg"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20181107184038.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20181107184038.2">### 筆記內容-2
+
+&lt;img src ="./../images/筆記2.jpg"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20181107184534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181107184534.2">### 心得
+
+一開始我們先領取作業，然後利用近端的部份去更新自己的網站，管理網站的方式與之前相比，並沒有很大的差異，基本上都相同。我們對於自己的網站內容都會有想做的事，這時候可能要先給自己去摸索看看，如果真的沒辦法，那就只能去請教老師。在摸索的過程中，可能存在著不同難題，有時候靠著同一條路，卻可以從中或去更多的知識。
 
 
 

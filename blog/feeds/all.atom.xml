@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623101 blog</title><link href="https://mdecadp2018.github.io/site-40623101/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623101/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623101/blog/</id><updated>2018-10-26T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week7-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623101/blog/2018-Fall-Week7-Blog.html</id><summary type="html">&lt;p&gt;Github無法登入&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623101 blog</title><link href="https://mdecadp2018.github.io/site-40623101/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623101/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623101/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week8-Blog.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623101/blog/2018-Fall-Week8-Blog.html</id><summary type="html">&lt;p&gt;期中前心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中前心得&lt;/p&gt;
+
+
+&lt;p&gt;期中前幾週，我們學會了如何管理自己的網站，也知道如何使用Onshape去畫圖，或許時間很緊湊，但它其實操作起來就跟其他的繪圖軟體差不多，所以只要多加的去練習，Onshape一定也能很快就上手。我覺得Onshape是一個不錯的軟體，第一次使用與網路相連結的繪圖軟體，在有網路的時候，它會隨時記得你的版本，甚至可以做到回溯版本的功能，但它的缺點就是在沒有網路的時候萬萬不能，不過如今在網路普及的時代，這項缺點就默默的被隱藏起來了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week7-Blog.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623101/blog/2018-Fall-Week7-Blog.html</id><summary type="html">&lt;p&gt;Github無法登入&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Github無法登入&lt;/p&gt;
 
 
@@ -28,7 +32,7 @@
 
 
 &lt;p&gt;指令為git version&lt;/p&gt;
-&lt;p&gt;示範如下網址:&lt;a href="https://mdecadp2018.github.io/site-40623101/content/Week5.html"&gt; week5&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week4-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623101/blog/2018-Fall-Week4-Blog.html</id><summary type="html">&lt;p&gt;自我學習Onshape&lt;/p&gt;
+&lt;p&gt;&lt;img src ="./../images/git_version-1.png"&gt;&lt;/img&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week4-Blog.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623101/blog/2018-Fall-Week4-Blog.html</id><summary type="html">&lt;p&gt;自我學習Onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;自我學習Onshape&lt;/p&gt;
 
 
@@ -66,6 +70,7 @@
 &lt;p&gt;進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=N85U6xw4TFc"&gt;&lt;img alt="IMAGE ALT TEXT HERE" src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;reveal 投影片&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -78,6 +83,7 @@
 &lt;p&gt;最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=gEBI9yjhlFM"&gt;&lt;img alt="IMAGE ALT TEXT HERE" src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;pelican 網誌&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -101,7 +107,8 @@
 &lt;li&gt;
 &lt;p&gt;最後進行新增、提交及推送到遠端的倉儲。&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week1-Blog.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623101/blog/2018-Fall-Week1-Blog.html</id><summary type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
+&lt;/ol&gt;
+&lt;p&gt;參考網址:&lt;a href="https://mdecadp2018.github.io/site-40623101/content/pelican%20%E7%B6%B2%E8%AA%8C.html"&gt;https://mdecadp2018.github.io/site-40623101/content/pelican%20%E7%B6%B2%E8%AA%8C.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623101/blog/2018-Fall-Week1-Blog.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623101</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623101/blog/2018-Fall-Week1-Blog.html</id><summary type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;領取期中作業&lt;/p&gt;
 
 
