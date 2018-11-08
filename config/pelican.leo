@@ -95,6 +95,9 @@
 <v t="leo.20181107185815.1" a="E"><vh>CADP_W8</vh>
 <v t="leo.20181107185815.2"><vh>@edit 20181102.md</vh></v>
 </v>
+<v t="leo.20181109003812.1"><vh>CADP_W9</vh>
+<v t="leo.20181109003812.2"><vh>@edit 20181109.md</vh></v>
+</v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
@@ -135,6 +138,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181019100606.1"></t>
 <t tx="leo.20181026102710.1"></t>
 <t tx="leo.20181107185815.1"></t>
+<t tx="leo.20181109003812.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
