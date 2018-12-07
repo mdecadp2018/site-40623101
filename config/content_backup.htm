@@ -1,4 +1,5 @@
 <h1>簡介</h1>
+<p>期末專案 : <a href="https://github.com/mdecadp2018/finalproject-ag2">ag2 github</a></p>
 <p><a href="https://github.com/mdecadp2018/site-40623101">40623101 github</a></p>
 <p><a href="https://mdecadp2018.github.io/site-40623101">40623101 github網站</a></p>
 <p><a href="http://mde.tw/cadp2018/content/index.html">電腦輔助設計實習教材</a></p>
@@ -138,7 +139,39 @@
 <p><span>（可配置的電腦系統資源)</span></p>
 <p><span>雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少</span></p>
 <p><span>雲端維基 : <a href="https://en.wikipedia.org/wiki/Cloud_computing">https://en.wikipedia.org/wiki/Cloud_computing</a></span></p>
-<p><span>參考資料<a href="https://github.com/mdecourse/cadp2018/issues/12">https://github.com/mdecourse/cadp2018/issues/12</a>: </span></p>
+<p><span>參考資料:<a href="https://github.com/mdecourse/cadp2018/issues/12">https://github.com/mdecourse/cadp2018/issues/12</a></span></p>
+<h2>Week9</h2>
+<p>期中考週，進行專案分組。</p>
+<p>期中自評 : 76</p>
+<p>組別 : 2</p>
+<p><a href="https://github.com/mdecadp2018/finalproject-ag2">https://github.com/mdecadp2018/finalproject-ag2</a></p>
+<p><a href="https://mdecadp2018.github.io/finalproject-ag2">https://mdecadp2018.github.io/finalproject-ag2</a></p>
+<p></p><h2>Week10</h2>
+<p>下載新的P37 : <a href="https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view">P37-18.11</a></p>
+<p><span>下載後,  更改 stop.bat 內容如下 :</span></p>
+<pre><code>@echo off
+set Disk=y
+REM 關閉 SciTE
+taskkill /IM Sc1.exe /F
+REM 關閉 python
+taskkill /IM python.exe /F
+taskkill /IM pythonw.exe /F
+REM 關閉 stunnel
+REM taskkill /IM stunnel.exe /F
+REM 關閉 fossil
+REM taskkill /IM fossil.exe /F
+REM taskkill /IM sharex.exe /F
+REM 清除 log 資料
+path=%PATH%;
+REM del /Q /F  V:\tmp\*.*
+REM 終止虛擬硬碟與目錄的對應
+subst %Disk%: /D
+REM 關閉 cmd 指令視窗
+taskkill /IM cmd.exe /F
+REM taskkill /IM mingw32 /F
+EXIT</code></pre><h2>Week11</h2>
+<h2>Week12</h2>
+<h2>Week13</h2>
 <h1>操作影片</h1>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/uPkxBLNB400" width="560"></iframe></p>
 <h1>筆記</h1>
