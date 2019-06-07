@@ -21,13 +21,16 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180827201621.9"><vh>封面投影片2019</vh>
+<v t="leo.20180827201621.10"><vh>封面投影片2019內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190607100630.1"><vh>封面投影片2018</vh>
+<v t="leo.20190607100630.2"><vh>封面投影片2018內容</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181026102301.1" a="E"><vh>W1-3</vh>
+<v t="leo.20181026102301.1"><vh>W1-3</vh>
 <v t="leo.20181107165704.1" a="E"><vh>W1-3_1</vh>
 <v t="leo.20181107165704.2"><vh>W1-3_1內容</vh></v>
 </v>
@@ -47,7 +50,7 @@
 <v t="leo.20181107170340.2"><vh>W1-3_6內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107165749.1" a="E"><vh>W4-6</vh>
+<v t="leo.20181107165749.1"><vh>W4-6</vh>
 <v t="leo.20181107165749.2" a="E"><vh>W4-6_1</vh>
 <v t="leo.20181107165749.3"><vh>W4-6_1內容</vh></v>
 </v>
@@ -70,7 +73,7 @@
 <v t="leo.20181107171857.2"><vh>W4-6_7內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107165751.1" a="E"><vh>W7-9</vh>
+<v t="leo.20181107165751.1"><vh>W7-9</vh>
 <v t="leo.20181107165751.2" a="E"><vh>W7-9_1</vh>
 <v t="leo.20181107165751.3"><vh>W7-9_1內容</vh></v>
 </v>
@@ -86,7 +89,7 @@
 <v t="leo.20181107184038.2"><vh>筆記內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107184534.1" a="E"><vh>心得</vh>
+<v t="leo.20181107184534.1"><vh>心得</vh>
 <v t="leo.20181107184534.2"><vh>心得內容</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -186,15 +189,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40623101 簡報
+<t tx="leo.20180827201621.10">## 產品協同設計實習
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [40623101](http://lab.kmol.info/)
+Created by [40623101](https://github.com/40623101)
 &lt;/small&gt;
 
-[40623101 網誌](./../blog/index.html)
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/index.html)
 
 
 </t>
@@ -758,6 +761,27 @@ Onshape 課程說明
 參考網址:
 
 &lt;https://github.com/mdecourse/cadp2018/issues/11&gt;
+
+</t>
+<t tx="leo.20190607100630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607100630.2">## 40623101 簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623101](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623101 網誌](./../blog/index.html)
+
 
 </t>
 </tnodes>
