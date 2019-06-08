@@ -24,18 +24,18 @@
 <v t="leo.20180827201621.9"><vh>封面投影片2019</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片2019內容</vh></v>
 </v>
-<v t="leo.20190609005026.1"><vh>W11-12</vh>
-<v t="leo.20190609005026.2"><vh>W11-12_1</vh>
+<v t="leo.20190609005026.1" a="E"><vh>W11-12</vh>
+<v t="leo.20190609005026.2" a="E"><vh>W11-12_1</vh>
 <v t="leo.20190609005026.3"><vh>W11-12_1內容</vh></v>
 </v>
-<v t="leo.20190609005026.4"><vh>W11-12_2</vh>
+<v t="leo.20190609005026.4" a="E"><vh>W11-12_2</vh>
 <v t="leo.20190609005026.5"><vh>W11-12_2內容</vh></v>
 </v>
-<v t="leo.20190609005524.1"><vh>W11-12_3</vh>
+<v t="leo.20190609005524.1" a="E"><vh>W11-12_3</vh>
 <v t="leo.20190609005524.2"><vh>W11-12_3內容</vh></v>
 </v>
 </v>
-<v t="leo.20190609010020.1"><vh>W12-13</vh>
+<v t="leo.20190609010020.1" a="E"><vh>W12-13</vh>
 <v t="leo.20190609010020.2" a="E"><vh>W12-13_1</vh>
 <v t="leo.20190609010020.3"><vh>W12-13_1內容</vh></v>
 </v>
@@ -855,7 +855,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609005026.5">### 丟球爪子
 
-&lt;img src ="./../images/丟球回去.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/丟球回去.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 </t>
 <t tx="leo.20190609005524.1">&lt;section data-markdown&gt;
@@ -911,7 +911,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010020.5">###送球機構(圓盤)
 
-&lt;img src ="./../images/圓盤左.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/圓盤左.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 </t>
 <t tx="leo.20190609010020.6">&lt;section data-markdown&gt;
@@ -928,7 +928,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010020.7">###送球機構(圓盤)
 
-&lt;img src ="./../images/場地等角.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地等角.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609010934.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -943,7 +943,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010934.2">###送球機構(圓盤)軌道
 
-&lt;img src ="./../images/場地.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609011026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -956,9 +956,11 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609011026.2">###送球機構(圓盤)模擬
+<t tx="leo.20190609011026.2">### 送球機構(圓盤)模擬
 
-&lt;iframe src="https://youtu.be/qIfVnJPzGJk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/qIfVnJPzGJk frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190609011243.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -978,7 +980,7 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609011243.3">###送球機構(圓盤)結論
+<t tx="leo.20190609011243.3">### 送球機構(圓盤)結論
 
 此機構在之後的運送球中，發現了一小問題存在，而另外一邊的送球機構以具有完整的運送能力，所以就以另一邊的送球機構為主。</t>
 </tnodes>
