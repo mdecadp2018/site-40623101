@@ -226,7 +226,7 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-###40623101個人簡報
+### 40623101個人簡報
 
 &lt;small&gt;
 Created by [40623101](https://github.com/40623101)
@@ -958,7 +958,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609011026.2">### 送球機構(圓盤)模擬
 
-&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/qIfVnJPzGJk frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/qIfVnJPzGJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190609011243.1">&lt;section&gt;
