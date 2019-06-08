@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -23,6 +23,39 @@
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9"><vh>封面投影片2019</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片2019內容</vh></v>
+</v>
+<v t="leo.20190609005026.1"><vh>W11-12</vh>
+<v t="leo.20190609005026.2"><vh>W11-12_1</vh>
+<v t="leo.20190609005026.3"><vh>W11-12_1內容</vh></v>
+</v>
+<v t="leo.20190609005026.4"><vh>W11-12_2</vh>
+<v t="leo.20190609005026.5"><vh>W11-12_2內容</vh></v>
+</v>
+<v t="leo.20190609005524.1"><vh>W11-12_3</vh>
+<v t="leo.20190609005524.2"><vh>W11-12_3內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609010020.1"><vh>W12-13</vh>
+<v t="leo.20190609010020.2" a="E"><vh>W12-13_1</vh>
+<v t="leo.20190609010020.3"><vh>W12-13_1內容</vh></v>
+</v>
+<v t="leo.20190609010020.4" a="E"><vh>W12-13_2</vh>
+<v t="leo.20190609010020.5"><vh>W12-13_2內容</vh></v>
+</v>
+<v t="leo.20190609010020.6" a="E"><vh>W12-13_3</vh>
+<v t="leo.20190609010020.7"><vh>W12-13_3內容</vh></v>
+</v>
+<v t="leo.20190609010934.1" a="E"><vh>W12-13_4</vh>
+<v t="leo.20190609010934.2"><vh>W12-13_4內容</vh></v>
+</v>
+<v t="leo.20190609011026.1" a="E"><vh>W12-13_5</vh>
+<v t="leo.20190609011026.2"><vh>W12-13_5內容</vh></v>
+</v>
+</v>
+<v t="leo.20190609011243.1" a="E"><vh>W14</vh>
+<v t="leo.20190609011243.2" a="E"><vh>W14_1</vh>
+<v t="leo.20190609011243.3"><vh>W14_1內容</vh></v>
+</v>
 </v>
 <v t="leo.20190607100630.1"><vh>封面投影片2018</vh>
 <v t="leo.20190607100630.2"><vh>封面投影片2018內容</vh></v>
@@ -82,10 +115,10 @@
 </v>
 </v>
 <v t="leo.20181107183912.1"><vh>筆記</vh>
-<v t="leo.20181107183912.2"><vh>筆記-1</vh>
+<v t="leo.20181107183912.2" a="E"><vh>筆記-1</vh>
 <v t="leo.20181107183912.3"><vh>筆記內容</vh></v>
 </v>
-<v t="leo.20181107184038.1"><vh>筆記-2</vh>
+<v t="leo.20181107184038.1" a="E"><vh>筆記-2</vh>
 <v t="leo.20181107184038.2"><vh>筆記內容</vh></v>
 </v>
 </v>
@@ -189,9 +222,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 產品協同設計實習
+<t tx="leo.20180827201621.10">## 2019產品協同設計實習
 
 ### 虎科大機械設計工程系
+
+####40623101個人簡報
 
 &lt;small&gt;
 Created by [40623101](https://github.com/40623101)
@@ -311,7 +346,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+40623101個人簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -784,5 +819,167 @@ Created by [40623101](http://lab.kmol.info/)
 
 
 </t>
+<t tx="leo.20190609005026.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609005026.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609005026.3">###送球機構
+
+一開始所設計的送球機構是希望能將球丟回球場，或是以運送的方式，讓它當作一運送機構，再搭配軌道。</t>
+<t tx="leo.20190609005026.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609005026.5">### 丟球爪子
+
+&lt;img src ="./../images/丟球回去.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190609005524.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609005524.2">### 丟球爪子結論
+
+丟球爪子放於球場旁時，發現若要將球運送到中場的話，此機構的長度不足，假設修改長度，則此機構的設計會與連接球員的桿子干涉到。
+
+以上由於時間的關係，分成兩邊設計送球機構。</t>
+<t tx="leo.20190609010020.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609010020.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609010020.3">###送球機構(圓盤)
+
+這次的想法就比較像是之前的送球機構，就是以摩天輪的形式繪製，而我們將此圓盤機構藏於球場壁厚間，讓外觀看起來比較簡潔，為了讓球順利進入圓盤的洞裡，並在高點處滾出，此部分在洞口加入了不少巧思。</t>
+<t tx="leo.20190609010020.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609010020.5">###送球機構(圓盤)
+
+&lt;img src ="./../images/圓盤左.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190609010020.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609010020.7">###送球機構(圓盤)
+
+&lt;img src ="./../images/場地等角.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190609010934.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609010934.2">###送球機構(圓盤)軌道
+
+&lt;img src ="./../images/場地.png"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190609011026.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609011026.2">###送球機構(圓盤)模擬
+
+&lt;iframe src="https://youtu.be/qIfVnJPzGJk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609011243.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190609011243.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190609011243.3">###送球機構(圓盤)結論
+
+此機構在之後的運送球中，發現了一小問題存在，而另外一邊的送球機構以具有完整的運送能力，所以就以另一邊的送球機構為主。</t>
 </tnodes>
 </leo_file>
