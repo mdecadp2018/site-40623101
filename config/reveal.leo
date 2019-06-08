@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片2019</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片2019</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片2019內容</vh></v>
 </v>
 <v t="leo.20190609005026.1" a="E"><vh>W11-12</vh>
@@ -226,7 +226,7 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-####40623101個人簡報
+###40623101個人簡報
 
 &lt;small&gt;
 Created by [40623101](https://github.com/40623101)
@@ -838,7 +838,7 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609005026.3">###送球機構
+<t tx="leo.20190609005026.3">### 送球機構
 
 一開始所設計的送球機構是希望能將球丟回球場，或是以運送的方式，讓它當作一運送機構，再搭配軌道。</t>
 <t tx="leo.20190609005026.4">&lt;section data-markdown&gt;
@@ -855,7 +855,7 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609005026.5">### 丟球爪子
 
-&lt;img src ="./../images/丟球回去.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/丟球回去.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 </t>
 <t tx="leo.20190609005524.1">&lt;section data-markdown&gt;
@@ -894,7 +894,7 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609010020.3">###送球機構(圓盤)
+<t tx="leo.20190609010020.3">### 送球機構(圓盤)
 
 這次的想法就比較像是之前的送球機構，就是以摩天輪的形式繪製，而我們將此圓盤機構藏於球場壁厚間，讓外觀看起來比較簡潔，為了讓球順利進入圓盤的洞裡，並在高點處滾出，此部分在洞口加入了不少巧思。</t>
 <t tx="leo.20190609010020.4">&lt;section data-markdown&gt;
@@ -909,9 +909,9 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609010020.5">###送球機構(圓盤)
+<t tx="leo.20190609010020.5">### 送球機構(圓盤)
 
-&lt;img src ="./../images/圓盤左.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/圓盤左.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 </t>
 <t tx="leo.20190609010020.6">&lt;section data-markdown&gt;
@@ -926,9 +926,9 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609010020.7">###送球機構(圓盤)
+<t tx="leo.20190609010020.7">### 送球機構(圓盤)
 
-&lt;img src ="./../images/場地等角.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地等角.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609010934.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -941,9 +941,9 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609010934.2">###送球機構(圓盤)軌道
+<t tx="leo.20190609010934.2">### 送球機構(圓盤)軌道
 
-&lt;img src ="./../images/場地.png"  width="689" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
 <t tx="leo.20190609011026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
