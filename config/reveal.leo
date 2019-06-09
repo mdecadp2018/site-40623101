@@ -64,7 +64,7 @@
 </v>
 </v>
 <v t="leo.20190610023029.1" a="E"><vh>W15-16</vh>
-<v t="leo.20190610023029.2"><vh>W15-16_1</vh>
+<v t="leo.20190610023029.2" a="E"><vh>W15-16_1</vh>
 <v t="leo.20190610023029.3"><vh>W15-16_1內容</vh></v>
 </v>
 <v t="leo.20190610023402.1" a="E"><vh>W15-16_2</vh>
@@ -1068,7 +1068,6 @@ Created by [40623101](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20190610023029.3">### W15-16
-###撰寫報告
 
 由於採納另一種送球機構，所以開始匯集大家的資料，然後開始做整理。
 
@@ -1085,7 +1084,7 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190610023402.2">###撰寫報告使用方法
+<t tx="leo.20190610023402.2">### 撰寫報告使用方法
 
 &lt;img src ="./../images/報告.jpg"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
@@ -1104,7 +1103,7 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190610023616.2">###小組報告
+<t tx="leo.20190610023616.2">### 小組報告
 
 &lt;https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/blob/gh-pages/report/pdf/report.pdf&gt;
 
