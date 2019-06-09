@@ -21,21 +21,27 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片2019</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片2019</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片2019內容</vh></v>
 </v>
-<v t="leo.20190609005026.1" a="E"><vh>W11-12</vh>
-<v t="leo.20190609005026.2" a="E"><vh>W11-12_1</vh>
-<v t="leo.20190609005026.3"><vh>W11-12_1內容</vh></v>
+<v t="leo.20190609005026.1"><vh>W10</vh>
+<v t="leo.20190609005026.2"><vh>W10</vh>
+<v t="leo.20190609005026.3"><vh>W10內容</vh></v>
 </v>
-<v t="leo.20190609005026.4" a="E"><vh>W11-12_2</vh>
-<v t="leo.20190609005026.5"><vh>W11-12_2內容</vh></v>
+<v t="leo.20190609005524.1"><vh>W11-12_3</vh></v>
 </v>
-<v t="leo.20190609005524.1" a="E"><vh>W11-12_3</vh>
-<v t="leo.20190609005524.2"><vh>W11-12_3內容</vh></v>
+<v t="leo.20190610022653.1"><vh>W11-12</vh>
+<v t="leo.20190610022653.2" a="E"><vh>W11-12_1</vh>
+<v t="leo.20190610022653.3"><vh>W11-12_1內容</vh></v>
+</v>
+<v t="leo.20190610022653.4" a="E"><vh>W11-12_2</vh>
+<v t="leo.20190610022653.5"><vh>W11-12_2內容</vh></v>
+</v>
+<v t="leo.20190610022653.6" a="E"><vh>W11-12_3</vh>
+<v t="leo.20190610022653.7"><vh>W11-12_3內容</vh></v>
 </v>
 </v>
-<v t="leo.20190609010020.1" a="E"><vh>W12-13</vh>
+<v t="leo.20190609010020.1"><vh>W12-13</vh>
 <v t="leo.20190609010020.2" a="E"><vh>W12-13_1</vh>
 <v t="leo.20190609010020.3"><vh>W12-13_1內容</vh></v>
 </v>
@@ -52,9 +58,20 @@
 <v t="leo.20190609011026.2"><vh>W12-13_5內容</vh></v>
 </v>
 </v>
-<v t="leo.20190609011243.1" a="E"><vh>W14</vh>
-<v t="leo.20190609011243.2" a="E"><vh>W14_1</vh>
+<v t="leo.20190609011243.1"><vh>W14</vh>
+<v t="leo.20190609011243.2"><vh>W14_1</vh>
 <v t="leo.20190609011243.3"><vh>W14_1內容</vh></v>
+</v>
+</v>
+<v t="leo.20190610023029.1" a="E"><vh>W15-16</vh>
+<v t="leo.20190610023029.2"><vh>W15-16_1</vh>
+<v t="leo.20190610023029.3"><vh>W15-16_1內容</vh></v>
+</v>
+<v t="leo.20190610023402.1" a="E"><vh>W15-16_2</vh>
+<v t="leo.20190610023402.2"><vh>W15-16_2內容</vh></v>
+</v>
+<v t="leo.20190610023616.1" a="E"><vh>W15-16_3</vh>
+<v t="leo.20190610023616.2"><vh>W15-16_3內容</vh></v>
 </v>
 </v>
 <v t="leo.20190607100630.1"><vh>封面投影片2018</vh>
@@ -106,7 +123,7 @@
 <v t="leo.20181107171857.2"><vh>W4-6_7內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107165751.1"><vh>W7-9</vh>
+<v t="leo.20181107165751.1" a="E"><vh>W7-9</vh>
 <v t="leo.20181107165751.2" a="E"><vh>W7-9_1</vh>
 <v t="leo.20181107165751.3"><vh>W7-9_1內容</vh></v>
 </v>
@@ -114,7 +131,7 @@
 <v t="leo.20181109005108.2"><vh>W7-9_2內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107183912.1"><vh>筆記</vh>
+<v t="leo.20181107183912.1" a="E"><vh>筆記</vh>
 <v t="leo.20181107183912.2" a="E"><vh>筆記-1</vh>
 <v t="leo.20181107183912.3"><vh>筆記內容</vh></v>
 </v>
@@ -122,7 +139,7 @@
 <v t="leo.20181107184038.2"><vh>筆記內容</vh></v>
 </v>
 </v>
-<v t="leo.20181107184534.1"><vh>心得</vh>
+<v t="leo.20181107184534.1" a="E"><vh>心得</vh>
 <v t="leo.20181107184534.2"><vh>心得內容</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -838,24 +855,9 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609005026.3">### 送球機構
+<t tx="leo.20190609005026.3">### Week10
 
-一開始所設計的送球機構是希望能將球丟回球場，或是以運送的方式，讓它當作一運送機構，再搭配軌道。</t>
-<t tx="leo.20190609005026.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-
-						
-</t>
-<t tx="leo.20190609005026.5">### 丟球爪子
-
-&lt;img src ="./../images/丟球回去.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+分配手足球之工作內容，並開始構想。
 
 </t>
 <t tx="leo.20190609005524.1">&lt;section data-markdown&gt;
@@ -870,11 +872,6 @@ Created by [40623101](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190609005524.2">### 丟球爪子結論
-
-丟球爪子放於球場旁時，發現若要將球運送到中場的話，此機構的長度不足，假設修改長度，則此機構的設計會與連接球員的桿子干涉到。
-
-以上由於時間的關係，分成兩邊設計送球機構。</t>
 <t tx="leo.20190609010020.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -896,7 +893,9 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010020.3">### 送球機構(圓盤)
 
-這次的想法就比較像是之前的送球機構，就是以摩天輪的形式繪製，而我們將此圓盤機構藏於球場壁厚間，讓外觀看起來比較簡潔，為了讓球順利進入圓盤的洞裡，並在高點處滾出，此部分在洞口加入了不少巧思。</t>
+這次的想法就比較像是之前的送球機構，就是以摩天輪的形式繪製，而我們將此圓盤機構藏於球場壁厚間，讓外觀看起來比較簡潔，為了讓球順利進入圓盤的洞裡，並在高點處滾出，此部分在洞口加入了不少巧思。
+
+</t>
 <t tx="leo.20190609010020.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -928,7 +927,9 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010020.7">### 送球機構(圓盤)
 
-&lt;img src ="./../images/場地等角.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地等角.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190609010934.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -943,7 +944,9 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609010934.2">### 送球機構(圓盤)軌道
 
-&lt;img src ="./../images/場地.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/場地.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190609011026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -982,6 +985,131 @@ Created by [40623101](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190609011243.3">### 送球機構(圓盤)結論
 
-此機構在之後的運送球中，發現了一小問題存在，而另外一邊的送球機構以具有完整的運送能力，所以就以另一邊的送球機構為主。</t>
+此機構在之後的運送球中，發現了一小問題存在，而另外一邊的送球機構以具有完整的運送能力，所以就以另一邊的送球機構為主。
+
+</t>
+<t tx="leo.20190610022653.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610022653.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610022653.3">### 送球機構
+
+一開始所設計的送球機構是希望能將球丟回球場，或是以運送的方式，讓它當作一運送機構，再搭配軌道。
+
+</t>
+<t tx="leo.20190610022653.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610022653.5">### 丟球爪子
+
+&lt;img src ="./../images/丟球回去.png"  width="700" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190610022653.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610022653.7">### 丟球爪子結論
+
+丟球爪子放於球場旁時，發現若要將球運送到中場的話，此機構的長度不足，假設修改長度，則此機構的設計會與連接球員的桿子干涉到。
+
+以上由於時間的關係，分成兩邊設計送球機構。
+
+</t>
+<t tx="leo.20190610023029.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610023029.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610023029.3">### W15-16
+###撰寫報告
+
+由於採納另一種送球機構，所以開始匯集大家的資料，然後開始做整理。
+
+</t>
+<t tx="leo.20190610023402.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610023402.2">###撰寫報告使用方法
+
+&lt;img src ="./../images/報告.jpg"  width="490" height="689" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+
+
+</t>
+<t tx="leo.20190610023616.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
+						
+</t>
+<t tx="leo.20190610023616.2">###小組報告
+
+&lt;https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1/blob/gh-pages/report/pdf/report.pdf&gt;
+
+
+
+</t>
 </tnodes>
 </leo_file>
